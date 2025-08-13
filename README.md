@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋 I'm Ajay Kumar Singh
 
-<!--
-**ajaysinghio/ajaysinghio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```java
+public class AjayKumarSingh {
+    String name = "Ajay Kumar Singh";
+    String role = "Senior Developer";
+    String location = "India 🇮🇳";
+    String email = "[Email]";
+    String contact = "[CONTACT]";
+    int experience = 12;
+    String[] expertise = {
+        "Java", "Kotlin", "Spring Boot", "Microservices",
+        "AWS", "Kubernetes", "Docker", "CI/CD", "TDD"
+    };
+    String[] interests = {
+        "Clean Code", "Scalable Systems", "Agile Methodologies",
+        "Test Automation", "Cloud-native Development"
+    };
+}
